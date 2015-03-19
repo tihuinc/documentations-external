@@ -4,7 +4,7 @@ This javascript plugin depends on jQuery, so please make sure your site has jQue
  
 ### Install
  
-1. Place the copy the following snippet in the HTML header after inclusion of jQuery library
+1. Place the following snippet in the HTML header after inclusion of jQuery library
 ```
    <script type="text/javascript" src="http://pre.medbill.me/v1/doctible.js"></script>
    <script type="text/javascript”>
@@ -15,7 +15,7 @@ This javascript plugin depends on jQuery, so please make sure your site has jQue
 2. Copy the following div where you'd like to place the "Book Appointment" button.
  
 ```
-   <div id="doctible-appointment"></div
+   <div id="doctible-appointment"></div>
 ```
  
 3. Refresh your page, and that's it!
